@@ -8,7 +8,8 @@ Overview of Application:
 The app is called GreenRush will be awareness application which will be totally focused 
 on sustainable energy and recycle product users. The user will be able to post their 
 stories and pictures as a pin and people can actually up vote them if they like the pin.
-Lets say for example I have a Tesla, I use solar power on my roof top and I have a window garden built on recycled plastic bottle where I grow oranges. I will post the pin of all 
+Lets say for example I have a Tesla, I use solar power on my roof top and I have a window
+garden built on recycled plastic bottle where I grow oranges. I will post the pin of all 
 three things and other people can have a look at my way of green living and up vote my pin 
 on the application and create more awareness and learn more for what I am doing. Through 
 the app people will be able to explore new ideas of green living and contribute to the app 
