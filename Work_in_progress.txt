@@ -1,0 +1,16 @@
+As of last last night (Sunday) worked on: 
+1.Rails application
+2.Device
+3.CSS
+4.Mainpage
+5.CRUD functionality
+
+
+
+
+Currently working on:
+1.API 
+
+
+
+
