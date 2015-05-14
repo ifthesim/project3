@@ -1,7 +1,7 @@
 Rails.application.routes.draw do
 
-  resources :pins do
-  end
+  devise_for :users
+  resources :pins
 
   root "pins#index"
 end
